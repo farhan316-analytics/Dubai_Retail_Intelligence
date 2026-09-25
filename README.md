@@ -130,6 +130,9 @@ Python and PostgreSQL outputs were validated against each other for key metrics.
 ### 📊 Power BI Dashboard
 The final Power BI dashboard contains three analytical pages.
 📊 Page 1 — Executive Overview
+
+![Executive Overview](docs/page1_executive_overview.png)
+
 Provides a management-level view of:
 - Total Revenue
 - Total Transactions
@@ -140,7 +143,11 @@ Provides a management-level view of:
 - Revenue by Payment Method
 - Transaction Mix
 - Revenue by Workstation Group
+
 ⏱️ Page 2 — Time & Trend Analysis
+
+![Time & Trend Analysis](docs/page2_time_trends.png)
+
 Analyzes:
 - Revenue by Hour
 - Transaction Volume by Hour
@@ -148,7 +155,11 @@ Analyzes:
 - Average Transaction Value by Day
 - Monthly Transaction Volume
 - Monthly Average Transaction Value
+
 ⚙️ Page 3 — Payment & Operations Analysis
+
+![Payment & Operations Analysis](docs/page3_payment_operations.png)
+
 Analyzes:
 - Workstation Revenue
 - Workstation Average Transaction
